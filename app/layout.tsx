@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 
-import { CartProvider } from './contexts/CartContext';
+import { CartProvider } from "./contexts/CartContext";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -19,7 +19,8 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Rent Retreat",
-  description: "Discover a wide range of rental properties across India. From cozy apartments to luxurious villas, we have something for everyone.",
+  description:
+    "Discover a wide range of rental properties across India. From cozy apartments to luxurious villas, we have something for everyone.",
 };
 
 export default function RootLayout({
@@ -28,17 +29,14 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-          <CartProvider>
-        <html lang="en">
-          <body
-            className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-          >
-            {children}
-          </body>
-        </html>
-      </CartProvider>
-    
+    <CartProvider>
+      <html lang="en">
+        <body
+          className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        >
+          {children}
+        </body>
+      </html>
+    </CartProvider>
   );
 }
-
-
