@@ -1,0 +1,39 @@
+{
+  "name": "totality_frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^5.6.0",
+    "@stripe/react-stripe-js": "^2.8.0",
+    "@stripe/stripe-js": "^4.5.0",
+    "framer-motion": "^11.8.0",
+    "lodash": "^4.17.21",
+    "lucide": "^0.446.0",
+    "lucide-react": "^0.446.0",
+    "next": "14.2.13",
+    "react": "^18",
+    "react-dom": "^18",
+    "shadcn-ui": "^0.9.1",
+    "sharp": "^0.33.5",
+    "stripe": "^16.12.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.15",
+    "@types/lodash": "^4.17.9",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/uuid": "^10.0.0",
+    "daisyui": "^4.12.10",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

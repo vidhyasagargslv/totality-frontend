@@ -1,0 +1,302 @@
+[
+  {
+    "uniqueid": "1",
+    "image": "/propert1.webp",
+    "title": "Cozy Apartment",
+    "description": "A cozy and modern apartment located in the heart of Mumbai.",
+    "price": 50000,
+    "location": "Mumbai",
+    "bedrooms": 2,
+    "size": 300
+  },
+  {
+    "uniqueid": "2",
+    "image": "/pro10.webp",
+    "title": "Spacious Villa",
+    "description": "A luxurious villa with a private pool and garden in Goa.",
+    "price": 150000,
+    "location": "Goa",
+    "bedrooms": 4,
+    "size": 550
+  },
+  {
+    "uniqueid": "3",
+    "image": "/proo1.jpg",
+    "title": "Modern Studio",
+    "description": "A stylish studio apartment perfect for singles or couples in Bangalore.",
+    "price": 30000,
+    "location": "Bangalore",
+    "bedrooms": 1,
+    "size": 250
+  },
+  {
+    "uniqueid": "4",
+    "image": "https://images.unsplash.com/photo-1472508249545-917598a8c985?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Family House",
+    "description": "A spacious family house with a large garden and garage in Hyderabad.",
+    "price": 80000,
+    "location": "Hyderabad",
+    "bedrooms": 3,
+    "size": 400
+  },
+  {
+    "uniqueid": "5",
+    "image": "/pro9.jpg",
+    "title": "Charming Cottage",
+    "description": "A charming cottage with beautiful mountain views in Manali.",
+    "price": 60000,
+    "location": "Manali",
+    "bedrooms": 2,
+    "size": 350
+  },
+  {
+    "uniqueid": "6",
+    "image": "/pro5.webp",
+    "title": "Luxury Apartment",
+    "description": "A luxury apartment with modern amenities in Delhi.",
+    "price": 70000,
+    "location": "Delhi",
+    "bedrooms": 3,
+    "size": 450
+  },
+  {
+    "uniqueid": "7",
+    "image": "/pro15.webp",
+    "title": "Beachfront Villa",
+    "description": "A stunning beachfront villa with private access to the beach in Chennai.",
+    "price": 120000,
+    "location": "Chennai",
+    "bedrooms": 4,
+    "size": 600
+  },
+  {
+    "uniqueid": "8",
+    "image": "/pro6.jpg",
+    "title": "Penthouse",
+    "description": "A luxurious penthouse with a panoramic view of the city in Pune.",
+    "price": 90000,
+    "location": "Pune",
+    "bedrooms": 3,
+    "size": 500
+  },
+  {
+    "uniqueid": "9",
+    "image": "/pro10.webp",
+    "title": "Modern House",
+    "description": "A modern house with spacious interiors in Ahmedabad.",
+    "price": 75000,
+    "location": "Ahmedabad",
+    "bedrooms": 3,
+    "size": 420
+  },
+  {
+    "uniqueid": "10",
+    "image": "/proo1.jpg",
+    "title": "Rustic Cottage",
+    "description": "A rustic cottage surrounded by nature in Ooty.",
+    "price": 55000,
+    "location": "Ooty",
+    "bedrooms": 2,
+    "size": 320
+  },
+  {
+    "uniqueid": "11",
+    "image": "/pro9.jpg",
+    "title": "Elegant Apartment",
+    "description": "An elegant apartment with classic decor in Kolkata.",
+    "price": 65000,
+    "location": "Kolkata",
+    "bedrooms": 2,
+    "size": 370
+  },
+  {
+    "uniqueid": "12",
+    "image": "/pro7.jpg",
+    "title": "Luxury Villa",
+    "description": "A luxury villa with traditional Rajasthani architecture in Jaipur.",
+    "price": 110000,
+    "location": "Jaipur",
+    "bedrooms": 4,
+    "size": 580
+  },
+  {
+    "uniqueid": "13",
+    "image": "/pro8.jpg",
+    "title": "Contemporary Studio",
+    "description": "A contemporary studio apartment in the heart of Chandigarh.",
+    "price": 35000,
+    "location": "Chandigarh",
+    "bedrooms": 1,
+    "size": 260
+  },
+  {
+    "uniqueid": "14",
+    "image": "/pro6.jpg",
+    "title": "Spacious House in Lucknow",
+    "description": "A spacious house with a beautiful garden in Lucknow.",
+    "price": 70000,
+    "location": "Lucknow",
+    "bedrooms": 3,
+    "size": 430
+  },
+  {
+    "uniqueid": "15",
+    "image": "/pro6.jpg",
+    "title": "Mountain Cottage",
+    "description": "A cozy mountain cottage with stunning views in Shimla.",
+    "price": 60000,
+    "location": "Shimla",
+    "bedrooms": 2,
+    "size": 340
+  },
+  {
+    "uniqueid": "16",
+    "image": "/pro5.webp",
+    "title": "Modern Apartment",
+    "description": "A modern apartment with all amenities in Surat.",
+    "price": 50000,
+    "location": "Surat",
+    "bedrooms": 2,
+    "size": 310
+  },
+  {
+    "uniqueid": "17",
+    "image": "/pro4.jfif",
+    "title": "Heritage Villa",
+    "description": "A heritage villa with a royal touch in Udaipur.",
+    "price": 130000,
+    "location": "Udaipur",
+    "bedrooms": 4,
+    "size": 590
+  },
+  {
+    "uniqueid": "18",
+    "image": "/pro3.jfif",
+    "title": "Urban Studio",
+    "description": "An urban studio apartment in the bustling city of Indore.",
+    "price": 30000,
+    "location": "Indore",
+    "bedrooms": 1,
+    "size": 270
+  },
+  {
+    "uniqueid": "19",
+    "image": "/pro2.webp",
+    "title": "Family House",
+    "description": "A family house with a large backyard in Bhopal.",
+    "price": 75000,
+    "location": "Bhopal",
+    "bedrooms": 3,
+    "size": 410
+  },
+  {
+    "uniqueid": "20",
+    "image": "/pro17.jpg",
+    "title": "Seaside Cottage",
+    "description": "A charming seaside cottage with ocean views in Alibaug.",
+    "price": 85000,
+    "location": "Alibaug",
+    "bedrooms": 2,
+    "size": 360
+  },
+  {
+    "uniqueid": "21",
+    "image": "/pro16.jpg",
+    "title": "Luxury Apartment",
+    "description": "A luxury apartment with modern amenities in Nagpur.",
+    "price": 70000,
+    "location": "Nagpur",
+    "bedrooms": 3,
+    "size": 470
+  },
+  {
+    "uniqueid": "22",
+    "image": "/pro15.webp",
+    "title": "Beachfront Villa",
+    "description": "A stunning beachfront villa with private access to the beach in Puri.",
+    "price": 120000,
+    "location": "Puri",
+    "bedrooms": 4,
+    "size": 610
+  },
+  {
+    "uniqueid": "23",
+    "image": "/pro15.jpg",
+    "title": "Penthouse",
+    "description": "A luxurious penthouse with a panoramic view of the city in Gurgaon.",
+    "price": 90000,
+    "location": "Gurgaon",
+    "bedrooms": 3,
+    "size": 510
+  },
+  {
+    "uniqueid": "24",
+    "image": "/pro14.webp",
+    "title": "Modern House",
+    "description": "A modern house with spacious interiors in Noida.",
+    "price": 75000,
+    "location": "Noida",
+    "bedrooms": 3,
+    "size": 430
+  },
+  {
+    "uniqueid": "25",
+    "image": "/pro12.jpg",
+    "title": "Rustic Cottage",
+    "description": "A rustic cottage surrounded by nature in Mussoorie.",
+    "price": 55000,
+    "location": "Mussoorie",
+    "bedrooms": 2,
+    "size": 330
+  },
+  {
+    "uniqueid": "26",
+    "image": "/pro13.webp",
+    "title": "Elegant Apartment",
+    "description": "An elegant apartment with classic decor in Agra.",
+    "price": 65000,
+    "location": "Agra",
+    "bedrooms": 2,
+    "size": 380
+  },
+  {
+    "uniqueid": "27",
+    "image": "/pro11.jpg",
+    "title": "Luxury Villa",
+    "description": "A luxury villa with traditional Rajasthani architecture in Jodhpur.",
+    "price": 110000,
+    "location": "Jodhpur",
+    "bedrooms": 4,
+    "size": 590
+  },
+  {
+    "uniqueid": "28",
+    "image": "/pro10.webp",
+    "title": "Contemporary Studio",
+    "description": "A contemporary studio apartment in the heart of Varanasi.",
+    "price": 35000,
+    "location": "Varanasi",
+    "bedrooms": 1,
+    "size": 270
+  },
+  {
+    "uniqueid": "29",
+    "image": "/propert1.webp",
+    "title": "Spacious House",
+    "description": "A spacious house with a beautiful garden in Haridwar.",
+    "price": 70000,
+    "location": "Haridwar",
+    "bedrooms": 3,
+    "size": 420
+  },
+  {
+    "uniqueid": "30",
+    "image": "/proo1.jpg",
+    "title": "Mountain Cottage",
+    "description": "A cozy mountain cottage with stunning views in Rishikesh.",
+    "price": 60000,
+    "location": "Rishikesh",
+    "bedrooms": 2,
+    "size": 350
+  }
+]
